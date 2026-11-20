@@ -1,6 +1,6 @@
 ## Yoo 👋
 
-Im sleidiq a frontend developer located in Switzerland
+Im aulixs a frontend developer located in Switzerland
 
 Currently working on websites using Figma, HTML, JavaScript, CSS 
 

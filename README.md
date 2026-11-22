@@ -83,7 +83,6 @@ Picked from what's in demand for frontend developers and freelancers:
 Have a project in mind, or just want to say hi? I'm open to freelance work.
 
 - 📧 YOUR_EMAIL
-- 💼 LinkedIn: YOUR_LINK
 
 <div align="center">
 
